@@ -2,7 +2,9 @@
 In this repository you will find 3 coressponding jupyter notebooks can be accessed directly and run on your kernel.
 
 ## 3 implementations namely:-
-1)MAIN -: In this implementation you will find 3 models implementation along with evaluation metrics of each:-
+## 1)MAIN 
+<p>In this implementation you will find 3 models implementation along with evaluation metrics of each:-</p>
+
 ### KNN
 ### Descision Trees
 ### Random Forest
